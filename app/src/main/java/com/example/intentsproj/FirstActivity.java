@@ -24,6 +24,7 @@ public class FirstActivity extends AppCompatActivity {
         number1 = findViewById(R.id.P1I1);
         number2 = findViewById(R.id.P1I2);
         btn = findViewById(R.id.B1);
+
     }
           protected void onResume() {
               super.onResume();
